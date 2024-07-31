@@ -1,6 +1,7 @@
 # Wildlife-Camera
 Individual project completed at home that captured and recorded wildlife activity using a Raspberry Pi Zero W and MotionEyeOS. The portable Wi-Fi camera featured motion detection, video recording, and accessibility over the local network or the internet
 # Hardware
+- Rasberry Pi Zero W
 - Compatible pi camera (night vision to use in the dark)
 - SD card
 - Waterproof container
