@@ -4,7 +4,7 @@ Individual project completed at home that captured and recorded wildlife activit
 - Compatible pi camera (night vision to use in the dark)
 - SD card
 - Waterproof container
-- Soldering gun or drill to make a hole in the plastic
+- Soldering gun or drill
 - Pi power supply
 - External device to monitor the camera and save recordings/pictures
 # Steps
@@ -16,6 +16,7 @@ Individual project completed at home that captured and recorded wildlife activit
 - Type the address in your browser
 - The camera feed should be shown on your device
 - Assign a manual IP to the pi by going into the MotionEyeOS settings
-- Login to your routers configuration page and add a port forwarding instruction. This way requests from outside your local network are forwarded to your pi camera. This enables access to your camera over the internet in the same way you could do it locally
+- Login to your routers configuration page and add a port forwarding instruction. This way requests from outside your local network are forwarded to your pi camera. This enables access to your camera over the internet
 - Change the settings of the camera as you prefer (turn on motion detection)
+- Connect to the server on your laptop/pc and login. Now you can see all the images and recordings.  
 - Solder a hole in the waterproof container and fit the pi camera in. Then place it ouside to see wildlife! 
