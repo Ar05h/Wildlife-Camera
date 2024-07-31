@@ -7,7 +7,8 @@ Individual project completed at home that captured and recorded wildlife activit
 - Waterproof container
 - Soldering gun or drill
 - Pi power supply
-- External device to monitor the camera and save recordings/pictures
+- Portable charger 
+- Laptop/pc to monitor the camera and save recordings and pictures
 # Steps
 - Download MotionEyeOS and flash image to SD card
 - Download the wpa_supplicant text file. This connects the pi to your Wi-Fi network. Change the country code, network name, and the network password. Then rename the file to wpa_supplicant.conf and add it to the SD card
@@ -20,4 +21,4 @@ Individual project completed at home that captured and recorded wildlife activit
 - Login to your routers configuration page and add a port forwarding instruction. This way requests from outside your local network are forwarded to your pi camera. This enables access to your camera over the internet
 - Change the settings of the camera as you prefer (turn on motion detection)
 - Connect to the server on your laptop/pc and login. Now you can see all the images and recordings.  
-- Solder a hole in the waterproof container and fit the pi camera in. Then place it ouside to see wildlife! 
+- Solder a hole in the waterproof container and fit the pi camera and in. Power the pi using a portable charger. Then place it ouside to see wildlife! 
