@@ -26,3 +26,5 @@ Individual project completed at home that captured and recorded wildlife activit
   
 ![Camera1_19-40-51](https://github.com/user-attachments/assets/366caab1-20d3-48ca-8188-6f75ad82986f)
 ![IMG_3564](https://github.com/user-attachments/assets/f0570b35-bf13-4315-9e35-541ba7393b34)
+![IMG_3548](https://github.com/user-attachments/assets/ee6d8569-2b2d-43b8-99fe-4358b624c972)
+![IMG_3345](https://github.com/user-attachments/assets/003bdc48-6a26-4c7e-8e08-310a40fc6129)
