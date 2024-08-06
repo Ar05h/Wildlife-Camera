@@ -22,7 +22,5 @@ Individual project completed at home that captured and recorded wildlife activit
 - Change the settings of the camera as you prefer (turn on motion detection)
 - Connect to the server on your laptop/pc and login. Now you can see all the images and recordings.  
 - Solder a hole in the waterproof container and fit the pi camera and in. Power the pi using a portable charger. Then place it ouside to see wildlife! 
-![Camera1_19-40-51](https://github.com/user-attachments/assets/37f788e2-e38c-4120-bf7b-b8744db10681)
-![IMG_3564](https://github.com/user-attachments/assets/faeb5afc-c38f-4cd7-baa5-ddbeb03bc561)
-![IMG_3548](https://github.com/user-attachments/assets/b402d208-2612-4f0e-9ed8-f6081b7b9763)
-![IMG_3345](https://github.com/user-attachments/assets/5c7b66b9-278f-45f9-a30c-86aa7690ad25)
+![Camera1_19-40-51](https://github.com/user-attachments/assets/366caab1-20d3-48ca-8188-6f75ad82986f)
+![IMG_3564](https://github.com/user-attachments/assets/f0570b35-bf13-4315-9e35-541ba7393b34)
