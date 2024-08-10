@@ -25,8 +25,8 @@ Individual project completed at home that captured and recorded wildlife activit
 - Place it ouside to see wildlife!
   
 ![Camera1_19-40-51](https://github.com/user-attachments/assets/366caab1-20d3-48ca-8188-6f75ad82986f)
-![Camera1_19-15-21](https://github.com/user-attachments/assets/e5e05fc0-062f-4731-b3a3-ae920d834959)
-![Camera1_19-08-46](https://github.com/user-attachments/assets/bc9090f5-d7ee-4f35-8856-d027c0e3e828)
+![Camera1_19-15-21](https://github.com/user-attachments/assets/068c4b18-1d6e-4299-9df7-d4cfef2d416f)
+![Camera1_19-11-19](https://github.com/user-attachments/assets/0884fcb7-ef55-4667-accb-f85b482aa8b1)
 ![IMG_3564](https://github.com/user-attachments/assets/f0570b35-bf13-4315-9e35-541ba7393b34)
 ![IMG_3548](https://github.com/user-attachments/assets/ee6d8569-2b2d-43b8-99fe-4358b624c972)
 ![IMG_3345](https://github.com/user-attachments/assets/003bdc48-6a26-4c7e-8e08-310a40fc6129)
